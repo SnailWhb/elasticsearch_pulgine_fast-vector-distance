@@ -7,6 +7,22 @@
     <groupId>whb</groupId>
     <artifactId>fast_vector_distance</artifactId>
     <version>1.0-SNAPSHOT</version>
+
+
+    <description>ElasticSearch Plugin for vector Similarity</description>
+
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>https://github.com/SnailWhb/elasticsearch_pulgine_fast-vector-distance</url>
+    </scm>
+
     <dependencies>
         <dependency>
             <groupId>org.elasticsearch</groupId>

@@ -11,12 +11,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="FastVectorDistance.java" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="FastVectorDistance.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/FastVectorDistance.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+            <state relative-caret-position="624">
+              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1726#1727#0" expanded="true" />
@@ -28,12 +28,47 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-144">
+              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="SearchScript.class" pinned="false" current-in-tab="false">
         <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.1.1/elasticsearch-6.1.1.jar!/org/elasticsearch/script/SearchScript.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
+            <state relative-caret-position="288">
               <caret line="23" column="60" lean-forward="false" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
-              <folding />
+              <folding>
+                <marker date="1550803744903" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1550803744903" expanded="false" signature="148:545" ph="..." />
+                <marker date="1550803744903" expanded="true" signature="1195:1398" ph="{...}" />
+                <marker date="1550803744903" expanded="false" signature="1442:1453" ph=" { " />
+                <marker date="1550803744903" expanded="false" signature="1472:1478" ph=" }" />
+                <marker date="1550803744903" expanded="false" signature="1532:1543" ph=" { " />
+                <marker date="1550803744903" expanded="false" signature="1566:1572" ph=" }" />
+                <marker date="1550803744903" expanded="false" signature="1628:1639" ph=" { " />
+                <marker date="1550803744903" expanded="false" signature="1663:1669" ph=" }" />
+                <marker date="1550803744903" expanded="false" signature="1710:1721" ph=" { " />
+                <marker date="1550803744903" expanded="false" signature="1783:1789" ph=" }" />
+                <marker date="1550803744903" expanded="true" signature="1830:1935" ph="{...}" />
+                <marker date="1550803744903" expanded="false" signature="1977:1988" ph=" { " />
+                <marker date="1550803744903" expanded="false" signature="2009:2015" ph=" }" />
+                <marker date="1550803744903" expanded="true" signature="2046:2361" ph="{...}" />
+                <marker date="1550803744903" expanded="false" signature="2416:2427" ph=" { " />
+                <marker date="1550803744903" expanded="false" signature="2460:2466" ph=" }" />
+                <marker date="1550803744903" expanded="true" signature="2523:2530" ph="{}" />
+                <marker date="1550803744903" expanded="false" signature="2559:2570" ph=" { " />
+                <marker date="1550803744903" expanded="false" signature="2642:2648" ph=" }" />
+                <marker date="1550803744903" expanded="false" signature="2673:2684" ph=" { " />
+                <marker date="1550803744903" expanded="false" signature="2710:2716" ph=" }" />
+                <marker date="1550803744903" expanded="true" signature="2790:2887" ph="{...}" />
+                <marker date="1550803744903" expanded="true" signature="2922:3038" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -42,7 +77,7 @@
         <entry file="file://$PROJECT_DIR$/target/classes/plugin-descriptor.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="48">
-              <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="25" />
+              <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -75,8 +110,8 @@
         <option value="$PROJECT_DIR$/src/main/resources/plugin-descriptor.properties" />
         <option value="$PROJECT_DIR$/src/main/java/com/Util.java" />
         <option value="$PROJECT_DIR$/src/main/assembies/plugin.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/FastVectorDistance.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -100,14 +135,19 @@
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="fast_vector_distance" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="fast_vector_distance" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
       </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2203" />
-    <option name="y" value="176" />
-    <option name="width" value="1429" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="2668" />
+    <option name="y" value="155" />
+    <option name="width" value="1518" />
     <option name="height" value="786" />
   </component>
   <component name="ProjectView">
@@ -125,7 +165,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="AndroidView" />
@@ -133,24 +172,14 @@
         <subPane>
           <expand>
             <path>
-              <item name="fast_vector_distance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fast_vector_distance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fast_vector_distance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fast_vector_distance" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="fast_vector_distance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fast_vector_distance" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="classes" type="462c0819:PsiDirectoryNode" />
+              <item name="fast_vector_distance(v6.1.1)" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fast_vector_distance(v6.1.1)" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,7 +187,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../fast-cosine-similarity(es&gt;v6.4)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -284,14 +313,18 @@
       <updated>1551520241732</updated>
       <workItem from="1551520245014" duration="5912000" />
       <workItem from="1551678499779" duration="5799000" />
+      <workItem from="1551701608486" duration="39000" />
+      <workItem from="1551701707394" duration="174000" />
+      <workItem from="1551701937140" duration="329000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11711000" />
+    <option name="totallyTimeSpent" value="12253000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2203" y="176" width="1429" height="786" extended-state="0" />
+    <frame x="2668" y="155" width="1518" height="786" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -299,13 +332,13 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14244397" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14402173" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40515932" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32776934" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22704266" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23369566" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2498618" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -337,6 +370,187 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/FastVectorDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1726#1727#0" expanded="true" />
+            <element signature="e#1788#1789#0" expanded="true" />
+            <element signature="initializer##0;class#2364:8634" expanded="false" />
+            <element signature="method#newInstance#0;class#2364:8634" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.1.1/elasticsearch-6.1.1.jar!/org/elasticsearch/script/SearchScript.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="23" column="60" lean-forward="false" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+          <folding>
+            <marker date="1550803744903" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1550803744903" expanded="false" signature="148:545" ph="..." />
+            <marker date="1550803744903" expanded="true" signature="1195:1398" ph="{...}" />
+            <marker date="1550803744903" expanded="false" signature="1442:1453" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="1472:1478" ph=" }" />
+            <marker date="1550803744903" expanded="false" signature="1532:1543" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="1566:1572" ph=" }" />
+            <marker date="1550803744903" expanded="false" signature="1628:1639" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="1663:1669" ph=" }" />
+            <marker date="1550803744903" expanded="false" signature="1710:1721" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="1783:1789" ph=" }" />
+            <marker date="1550803744903" expanded="true" signature="1830:1935" ph="{...}" />
+            <marker date="1550803744903" expanded="false" signature="1977:1988" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="2009:2015" ph=" }" />
+            <marker date="1550803744903" expanded="true" signature="2046:2361" ph="{...}" />
+            <marker date="1550803744903" expanded="false" signature="2416:2427" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="2460:2466" ph=" }" />
+            <marker date="1550803744903" expanded="true" signature="2523:2530" ph="{}" />
+            <marker date="1550803744903" expanded="false" signature="2559:2570" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="2642:2648" ph=" }" />
+            <marker date="1550803744903" expanded="false" signature="2673:2684" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="2710:2716" ph=" }" />
+            <marker date="1550803744903" expanded="true" signature="2790:2887" ph="{...}" />
+            <marker date="1550803744903" expanded="true" signature="2922:3038" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/plugin-descriptor.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/FastVectorDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1726#1727#0" expanded="true" />
+            <element signature="e#1788#1789#0" expanded="true" />
+            <element signature="initializer##0;class#2364:8634" expanded="false" />
+            <element signature="method#newInstance#0;class#2364:8634" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.1.1/elasticsearch-6.1.1.jar!/org/elasticsearch/script/SearchScript.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="23" column="60" lean-forward="false" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+          <folding>
+            <marker date="1550803744903" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1550803744903" expanded="false" signature="148:545" ph="..." />
+            <marker date="1550803744903" expanded="true" signature="1195:1398" ph="{...}" />
+            <marker date="1550803744903" expanded="false" signature="1442:1453" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="1472:1478" ph=" }" />
+            <marker date="1550803744903" expanded="false" signature="1532:1543" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="1566:1572" ph=" }" />
+            <marker date="1550803744903" expanded="false" signature="1628:1639" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="1663:1669" ph=" }" />
+            <marker date="1550803744903" expanded="false" signature="1710:1721" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="1783:1789" ph=" }" />
+            <marker date="1550803744903" expanded="true" signature="1830:1935" ph="{...}" />
+            <marker date="1550803744903" expanded="false" signature="1977:1988" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="2009:2015" ph=" }" />
+            <marker date="1550803744903" expanded="true" signature="2046:2361" ph="{...}" />
+            <marker date="1550803744903" expanded="false" signature="2416:2427" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="2460:2466" ph=" }" />
+            <marker date="1550803744903" expanded="true" signature="2523:2530" ph="{}" />
+            <marker date="1550803744903" expanded="false" signature="2559:2570" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="2642:2648" ph=" }" />
+            <marker date="1550803744903" expanded="false" signature="2673:2684" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="2710:2716" ph=" }" />
+            <marker date="1550803744903" expanded="true" signature="2790:2887" ph="{...}" />
+            <marker date="1550803744903" expanded="true" signature="2922:3038" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/plugin-descriptor.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/FastVectorDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1726#1727#0" expanded="true" />
+            <element signature="e#1788#1789#0" expanded="true" />
+            <element signature="initializer##0;class#2364:8634" expanded="false" />
+            <element signature="method#newInstance#0;class#2364:8634" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.1.1/elasticsearch-6.1.1.jar!/org/elasticsearch/script/SearchScript.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="23" column="60" lean-forward="false" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
+          <folding>
+            <marker date="1550803744903" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1550803744903" expanded="false" signature="148:545" ph="..." />
+            <marker date="1550803744903" expanded="true" signature="1195:1398" ph="{...}" />
+            <marker date="1550803744903" expanded="false" signature="1442:1453" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="1472:1478" ph=" }" />
+            <marker date="1550803744903" expanded="false" signature="1532:1543" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="1566:1572" ph=" }" />
+            <marker date="1550803744903" expanded="false" signature="1628:1639" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="1663:1669" ph=" }" />
+            <marker date="1550803744903" expanded="false" signature="1710:1721" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="1783:1789" ph=" }" />
+            <marker date="1550803744903" expanded="true" signature="1830:1935" ph="{...}" />
+            <marker date="1550803744903" expanded="false" signature="1977:1988" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="2009:2015" ph=" }" />
+            <marker date="1550803744903" expanded="true" signature="2046:2361" ph="{...}" />
+            <marker date="1550803744903" expanded="false" signature="2416:2427" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="2460:2466" ph=" }" />
+            <marker date="1550803744903" expanded="true" signature="2523:2530" ph="{}" />
+            <marker date="1550803744903" expanded="false" signature="2559:2570" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="2642:2648" ph=" }" />
+            <marker date="1550803744903" expanded="false" signature="2673:2684" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="2710:2716" ph=" }" />
+            <marker date="1550803744903" expanded="true" signature="2790:2887" ph="{...}" />
+            <marker date="1550803744903" expanded="true" signature="2922:3038" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/plugin-descriptor.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/es_plugin_dev.iml" />
     <entry file="file://$PROJECT_DIR$/fast_vector_distance.iml">
       <provider selected="true" editor-type-id="text-editor">
@@ -350,7 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -358,10 +571,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
           <caret line="713" column="24" lean-forward="false" selection-start-line="713" selection-start-column="24" selection-end-line="713" selection-end-column="24" />
-          <folding>
-            <element signature="e#14301#14302#0" expanded="false" />
-            <element signature="e#14347#14348#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -369,15 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="41" column="29" lean-forward="true" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -385,7 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -393,30 +592,54 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/target/classes/plugin-descriptor.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="2" column="5" lean-forward="true" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="25" />
+          <caret line="2" column="5" lean-forward="false" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/elasticsearch/elasticsearch/6.1.1/elasticsearch-6.1.1.jar!/org/elasticsearch/script/SearchScript.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="288">
           <caret line="23" column="60" lean-forward="false" selection-start-line="23" selection-start-column="60" selection-end-line="23" selection-end-column="60" />
-          <folding />
+          <folding>
+            <marker date="1550803744903" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1550803744903" expanded="false" signature="148:545" ph="..." />
+            <marker date="1550803744903" expanded="true" signature="1195:1398" ph="{...}" />
+            <marker date="1550803744903" expanded="false" signature="1442:1453" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="1472:1478" ph=" }" />
+            <marker date="1550803744903" expanded="false" signature="1532:1543" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="1566:1572" ph=" }" />
+            <marker date="1550803744903" expanded="false" signature="1628:1639" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="1663:1669" ph=" }" />
+            <marker date="1550803744903" expanded="false" signature="1710:1721" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="1783:1789" ph=" }" />
+            <marker date="1550803744903" expanded="true" signature="1830:1935" ph="{...}" />
+            <marker date="1550803744903" expanded="false" signature="1977:1988" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="2009:2015" ph=" }" />
+            <marker date="1550803744903" expanded="true" signature="2046:2361" ph="{...}" />
+            <marker date="1550803744903" expanded="false" signature="2416:2427" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="2460:2466" ph=" }" />
+            <marker date="1550803744903" expanded="true" signature="2523:2530" ph="{}" />
+            <marker date="1550803744903" expanded="false" signature="2559:2570" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="2642:2648" ph=" }" />
+            <marker date="1550803744903" expanded="false" signature="2673:2684" ph=" { " />
+            <marker date="1550803744903" expanded="false" signature="2710:2716" ph=" }" />
+            <marker date="1550803744903" expanded="true" signature="2790:2887" ph="{...}" />
+            <marker date="1550803744903" expanded="true" signature="2922:3038" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/FastVectorDistance.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+        <state relative-caret-position="624">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1726#1727#0" expanded="true" />
@@ -424,6 +647,14 @@
             <element signature="initializer##0;class#2364:8634" expanded="false" />
             <element signature="method#newInstance#0;class#2364:8634" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
